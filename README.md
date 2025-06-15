@@ -6,18 +6,18 @@ A cozy little tool to copy-paste cute symbols, kaomojis, and pretty Unicode for 
 ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
 ---
 
-## 🌟 Features
+## 🌟 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔
 - 🌼 Copy aesthetic symbols with one click
 - ✨ Cute and cozy design
 
 ---
 
-## 🛠️ Built With
+## 🛠️ 𝑩𝒖𝒊𝒍𝒕 𝒘𝒊𝒕𝒉
 - HTML, CSS, JavaScript
 
 ---
 
-## 🧸 Author
+## 🧸 𝑨𝒖𝒕𝒉𝒐𝒓
 By yours truly: (https://github.com/Wizardofozing) ‧₊˚❀༉‧₊˚.
 
 ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦
